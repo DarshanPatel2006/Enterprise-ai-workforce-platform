@@ -30,8 +30,8 @@
 
 <br/>
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/enterprise-ai-workforce-platform?style=social)](https://github.com/YOUR_USERNAME/enterprise-ai-workforce-platform)
-[![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/enterprise-ai-workforce-platform?style=social)](https://github.com/YOUR_USERNAME/enterprise-ai-workforce-platform)
+[![GitHub Stars](https://img.shields.io/github/stars/DarshanPatel2006/Enterprise-ai-workforce-platform?style=social)](https://github.com/DarshanPatel2006/Enterprise-ai-workforce-platform)
+[![GitHub Forks](https://img.shields.io/github/forks/DarshanPatel2006/Enterprise-ai-workforce-platform?style=social)](https://github.com/DarshanPatel2006/Enterprise-ai-workforce-platform)
 
 </div>
 
