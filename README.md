@@ -424,6 +424,6 @@ npm run build
 
 **⭐ Star this repository if you found it useful!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/DarshanPatel2006)
 
 </div>
